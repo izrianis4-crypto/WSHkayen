@@ -5,7 +5,7 @@
 Ce projet fait partie de la **Série de TP n°1 – Pratiques et outils du développement logiciel collaboratif**.[file:1]  
 L’objectif est de développer un module Python `StudentStats` permettant de calculer des statistiques simples sur des notes d’étudiants (moyenne, minimum, maximum) en respectant une charte de codage commune et un workflow Git/Trello collaboratif.[file:1]
 
-# Équipe du projet
+## Équipe du projet
 
 | Rôle               | Nom de l’étudiant    |
 |--------------------|----------------------|
