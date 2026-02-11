@@ -1,4 +1,4 @@
-# StudentStats – Série de TP n°1
+# Anis's PROJECT – Série de TP n°1
 
 ## Contexte
 
